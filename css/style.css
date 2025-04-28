@@ -30,3 +30,31 @@
 .banner-1{
     height: 70%
 }
+.DUI, .case, .blog, .credentials, .area, .testimonials, .areas, .us{
+    color:  #750f0f;
+}
+.click-btn{
+    border-top: 3px solid grey;
+}
+.button-show {
+    /* width: 75%; */
+    border-color: var(--border-color) !important;
+    border-width: 2px !important;
+}
+.dui-main{
+    border-left: 12px solid #611915;
+  }
+  .menu-area-here{
+    opacity: 0.4;
+  }
+  @media (min-width:280px) and (max-width: 520px) {
+    .horizontal{
+        width: 300px;
+    }
+    .being-charged{
+        font-size: 11px; 
+    }
+  }
+  @media (min-width:320px) and (max-width:475px){
+
+  }
